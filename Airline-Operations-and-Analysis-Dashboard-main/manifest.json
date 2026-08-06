@@ -1,0 +1,16 @@
+{
+  "short_name": "Airline Analytics",
+  "name": "Airline Operations & Passenger Analysis Dashboard | Yashika Singh",
+  "description": "Interactive data analytics dashboard for airline traffic, flight operations, and passenger density analysis by Yashika Singh.",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "display": "standalone"
+}

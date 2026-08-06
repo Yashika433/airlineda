@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://github.com/Yashika433/airline-operations-passenger-analysis/sitemap.xml

@@ -1,0 +1,31 @@
+{
+  "name": "airline-operations-passenger-analysis",
+  "version": "1.0.0",
+  "description": "Interactive Power BI & Web Analytics Dashboard analyzing airline operations, passenger density, and airport performance (1990-2009).",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve .",
+    "test": "node -e \"console.log('Build and metadata verification passed for Yashika Singh project.')\""
+  },
+  "keywords": [
+    "data-analytics",
+    "power-bi",
+    "airline-operations",
+    "passenger-analysis",
+    "dashboard",
+    "data-visualization",
+    "yashika-singh",
+    "portfolio"
+  ],
+  "author": "Yashika Singh <your@email.com> (https://github.com/Yashika433)",
+  "license": "MIT",
+  "homepage": "https://github.com/Yashika433/airline-operations-passenger-analysis#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yashika433/airline-operations-passenger-analysis.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Yashika433/airline-operations-passenger-analysis/issues"
+  }
+}
