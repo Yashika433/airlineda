@@ -115,8 +115,9 @@ Then open `http://localhost:3000` or `index.html` in any modern browser.
 *Data Analyst & Business Intelligence Specialist*
 
 - **GitHub:** [Yashika433](https://github.com/Yashika433)
-- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- **Email:** [your@email.com](mailto:your@email.com)
+- **LinkedIn:** 
+linkedin.com/in/yashika-singh-02a8a3307
+- **Email:** mithisingh.2707@gmail.com
 
 ---
 
